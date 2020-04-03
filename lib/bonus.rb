@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  ([:montague]
+  ([:montague][:hero][:status] = "dead")
 
   
 
